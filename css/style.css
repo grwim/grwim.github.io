@@ -8,6 +8,14 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", Helvetica, Arial, sans-serif;
 }
 
+norm{
+   font-weight: normal;
+}
+
+bold{
+   font-weight: bold; 
+}
+
 p {
   line-height: 1.55;
   color: #333;
@@ -54,7 +62,7 @@ a {
 }
 
 .btn:hover {
-  background-color: #E04F00;
+  background-color: #FF7F50;
   color: #fff;
 }
 
@@ -69,10 +77,10 @@ a {
 
 .values {
 	margin-top: 0px;
-    padding: 20px;
+    padding: 15px;
     width: 100%;
     text-align: center;
-    background-color: #199EB8;
+    background-color: #FF7F50;
     display: flex;
     justify-content: center;
 }
@@ -83,7 +91,7 @@ a {
 
 .value {
     display: inline-block;
-    font-size: 16px;
+    font-size: 20px;
     color: aliceblue;
     align-self: center;
     margin: 0 100px;
@@ -92,8 +100,9 @@ a {
 
 .btn-ghost:hover {
   background-color: #fff;
-  color: #199EB8;
+  color: #FF7F50;
 }
+
 
 section {
   padding: 85px 0;
@@ -734,17 +743,18 @@ hr {
 }
 
 .feature-col .feature-icon {
-  width: 70px;
-  height: 70px;
-  margin-bottom: 15px;
-  background: #199EB8;
+  width: 75px;
+  height: 75px;
+  margin-bottom: 12px;
+  background: #FF7F50;
   color: #fff;
   font-size: 24px;
   text-align: center;
   line-height: 70px;
-  border-radius: 50%;
+  border-radius: 75%;
   display: inline-block;
 }
+
 
 .feature-col h3 {
   color: #199EB8;
@@ -1218,16 +1228,16 @@ hr {
     .values {
         display: block;
     }
-    
+
     .value {
         display: flex;
         justify-content: center;
         align-items: center;
-        padding: 10px;
+        padding: 15px;
     }
     
     .value img {
-        width: 80px;;
+        width: 75px;;
         margin-right: 20px;
     }
     
@@ -1350,7 +1360,7 @@ img.gap {
     border-radius: 10px;
 }
 .btn.btn-full {
-	border: 2px solid #E04F00;
+	border: 2px solid #FF7F50;
 }
     
 .hero {
