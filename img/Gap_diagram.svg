@@ -30,10 +30,10 @@
             </feMerge>
         </filter>
         <text id="text-8" font-family="Helvetica-Bold, Helvetica" font-size="15" font-weight="bold" fill="#000000">
-            <tspan x="154.913818" y="66">AI &amp; Robitcs </tspan>
+            <tspan x="150.33252" y="66">AI &amp; Robotics </tspan>
             <tspan x="151.713135" y="84">Technologies</tspan>
         </text>
-        <filter x="0.0%" y="0.0%" width="136.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-9">
+        <filter x="0.0%" y="0.0%" width="142.4%" height="100.0%" filterUnits="objectBoundingBox" id="filter-9">
             <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
         </filter>
@@ -79,7 +79,7 @@
         <text id="Advancement" transform="translate(9.500000, 109.500000) rotate(270.000000) translate(-9.500000, -109.500000) " font-family="Helvetica-Bold, Helvetica" font-size="14" font-weight="bold" fill="#000000">
             <tspan x="-44" y="115">Advancement</tspan>
         </text>
-        <g id="AI-&amp;-Robitcs-Technol" fill-opacity="1" fill="#000000">
+        <g id="AI-&amp;-Robotics-Techno" fill-opacity="1" fill="#000000">
             <use filter="url(#filter-9)" xlink:href="#text-8"></use>
             <use xlink:href="#text-8"></use>
         </g>
