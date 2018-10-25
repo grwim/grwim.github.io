@@ -53,7 +53,7 @@ a {
   Elements
   ================================================== */
 .btn {
-  background-color: #FF7F50;
+  background-color: #199EB8;
   font-family: "Raleway", Helvetica, Arial, sans-serif;
   font-weight: 800;
   color: #fff;
@@ -62,7 +62,7 @@ a {
 }
 
 .btn:hover {
-  background-color: #ff875b;
+  background-color: #FF7F50;
   color: #fff;
 }
 
@@ -146,7 +146,7 @@ a:hover {
 .hero {
   display: table;
   position: relative;
-/*  background-image: url(../img/heart.svg);*/
+  background-image: url(../img/heart.svg);
   background-size: cover;
   padding: 150px 0;
   color: #fff;
@@ -155,7 +155,7 @@ a:hover {
 }
 
 .problem {
-    
+    background: url("../img/robo_human_wisdom.svg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -174,30 +174,9 @@ a:hover {
     background: rgba(25,25,25,0.7)
 }
 
-.colorful {
-  background:
-    -webkit-linear-gradient(315deg, hsla(189.93, 48.51%, 47.58%, 1) 0%, hsla(189.93, 48.51%, 47.58%, 0) 70%),
-    -webkit-linear-gradient(65deg, hsla(189.93, 100%, 49.04%, 1) 10%, hsla(189.93, 100%, 49.04%, 0) 80%),
-    -webkit-linear-gradient(135deg, hsla(189.93, 66.69%, 67.6%, 1) 15%, hsla(189.93, 66.69%, 67.6%, 0) 80%),
-    -webkit-linear-gradient(205deg, hsla(189.93, 66.21%, 42.94%, 1) 100%, hsla(189.93, 66.21%, 42.94%, 0) 70%);
-  background:
-    linear-gradient(135deg, hsla(189.93, 48.51%, 47.58%, 1) 0%, hsla(189.93, 48.51%, 47.58%, 0) 70%),
-    linear-gradient(25deg, hsla(189.93, 100%, 49.04%, 1) 10%, hsla(189.93, 100%, 49.04%, 0) 80%),
-    linear-gradient(315deg, hsla(189.93, 66.69%, 67.6%, 1) 15%, hsla(189.93, 66.69%, 67.6%, 0) 80%),
-    linear-gradient(245deg, hsla(189.93, 66.21%, 42.94%, 1) 100%, hsla(189.93, 66.21%, 42.94%, 0) 70%);
-  }
-
 .problem > h2 {
     color: white !important;
     background: rgba(25,25,25,0.7)
-}
-
-#particles-js {
-    margin: -150px;
-    background-color: #259EB6;
-    overflow-x: auto;
-    position: absolute;
-    z-index: 0;
 }
 
 .hero:after {
@@ -217,10 +196,10 @@ a:hover {
   display: table-cell;
   vertical-align: middle;
   width: 100%;
-  
 }
 
 .hero-brand {
+  margin-bottom: 75px;
   display: inline-block;
 }
 
@@ -260,6 +239,7 @@ a:hover {
     right: 0;
     bottom: 0;
     left: 0;
+    overflow: hidden;
     z-index: -100;
 }
 
@@ -593,7 +573,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 img.gap {
-    width: 100%
+    width: 50%
 }
 
 .b1 {
@@ -883,23 +863,6 @@ hr {
   opacity: 1;
   visibility: visible;
 }
-
-
-/* ==================================================
-  Row Styling
-  ================================================== */
-.column {
-    float: left;
-    width: 33.33%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
 
 /* ==================================================
   Team Styling
@@ -1263,10 +1226,7 @@ hr {
     }
     
     .values {
-        display: block !important;
-        z-index: 500;
-        position: relative;
-        width:100%;
+        display: block;
     }
 
     .value {
@@ -1406,7 +1366,7 @@ img.gap {
 .hero {
   display: table;
   position: relative;
-  background-color: #259EB6;
+  background-image: url(../img/heart.svg);
   background-size: cover;
     background-position:  25%;
   padding: 150px 0px;
