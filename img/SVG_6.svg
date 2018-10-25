@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1404px" height="836px" viewBox="0 0 1404 836" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="93.7394172%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#E9DE8D" stop-opacity="0.145012455" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.162594485" offset="43.8516422%"></stop>
+            <stop stop-color="#3C75E5" stop-opacity="0.183423913" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="64" y="0" width="1349" height="757" rx="8"></rect>
+        <pattern id="pattern-3" width="34.8728554" height="34.8728554" x="29.1271446" y="-34.8728554" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-4" transform="scale(0.697457108,0.697457108)"></use>
+        </pattern>
+        <image id="image-4" width="50" height="50" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAMpJREFUaAXtmDEKxDAMBOP8yf9/gB+VVAYX2iKRYEHMNTmWnBTN6MBkXB8+c85n377WGvt75fVvj7vyIZy1GMRJP+qNkYiKM8OIk37UGyMRFWfWxsg4jwROotnebYy0GeTTCfZcQ06/2T+D+H2b1WIQYdgWY8SGXjTGiABjizFiQy8aY0SAscUYsaEXjTEiwNhijNjQi8YYEWBscRsjvKCz7ZBo3Ge1xIBhzAu6EEtt2Ga1GKR2MfLVMJJnWFsBI7U889UwkmdYW+EFfQIbnIOf3rkAAAAASUVORK5CYII="></image>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#84FF88" offset="0%"></stop>
+            <stop stop-color="#F7F145" offset="50.3049267%"></stop>
+            <stop stop-color="#FF7777" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="48.886918%" y1="2.2261639%" x2="0%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#E31212" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="97.7422574%" y1="9.56709776%" x2="-5.97239851%" y2="89.071563%" id="linearGradient-7">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#88AF5C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="97.4908323%" id="linearGradient-8">
+            <stop stop-color="#590000" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#4BBC50" stop-opacity="0.919242527" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="0%" x2="1.77125685%" y2="98.3102715%" id="linearGradient-9">
+            <stop stop-color="#8ABD6B" offset="0%"></stop>
+            <stop stop-color="#CDCE47" offset="54.0796397%"></stop>
+            <stop stop-color="#E03F3F" offset="100%"></stop>
+        </linearGradient>
+        <path d="M787.5,659.5 L1049.5,186.5" id="path-10"></path>
+        <rect id="path-11" x="1167" y="685" width="139" height="45" rx="8"></rect>
+        <rect id="path-12" x="1168" y="13" width="139" height="45" rx="8"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4" transform="translate(-9.000000, 0.000000)">
+            <g id="Rectangle-9">
+                <use fill-opacity="0.0799999982" fill="url(#pattern-3)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <rect stroke="#080808" stroke-width="6" x="67" y="3" width="1343" height="751" rx="8"></rect>
+            </g>
+            <path d="M1235.66667,647 L1235.66667,92.5" id="Line-Copy-23" stroke="url(#linearGradient-5)" stroke-width="22" fill="#65A222" stroke-linecap="round"></path>
+            <path id="Line-Copy-23-decoration-1" d="M1235.66667,647 L1232.66667,636.2 L1238.66667,636.2 L1235.66667,647 Z" stroke="url(#linearGradient-5)" stroke-width="22" fill="#65A222" stroke-linecap="round"></path>
+            <path id="Line-Copy-23-decoration-2" d="M1235.66667,92.5 L1232.66667,103.3 L1238.66667,103.3 L1235.66667,92.5 Z" stroke="url(#linearGradient-5)" stroke-width="22" fill="#65A222" stroke-linecap="round"></path>
+            <polygon id="Triangle-2" fill="#F3F290" points="81.5 744.193388 782.192549 335.174982 782.192549 670.549593"></polygon>
+            <polygon id="Triangle-3" fill="#F3F290" points="1054 169.282099 781 669.447234 781 335.552766"></polygon>
+            <path d="M551.5,771.5 L1394.5,771.5" id="Line-Copy-21" stroke="#000000" stroke-width="7" fill="#65A222" stroke-linecap="round"></path>
+            <path id="Line-Copy-21-decoration-1" d="M1394.5,771.5 L1383.7,768.5 L1383.7,774.5 L1394.5,771.5 Z" stroke="#000000" stroke-width="7" fill="#65A222" stroke-linecap="round"></path>
+            <path d="M47.5,327.5 L47.5,18.5" id="Line-Copy-28" stroke="#000000" stroke-width="7" fill="#65A222" stroke-linecap="round"></path>
+            <path id="Line-Copy-28-decoration-1" d="M47.5,18.5 L44.5,29.3 L50.5,29.3 L47.5,18.5 Z" stroke="#000000" stroke-width="7" fill="#65A222" stroke-linecap="round"></path>
+            <path d="M787.5,670.5 L1044.5,642.5" id="Line-Copy-18" stroke="#E03F3F" stroke-width="6" stroke-linecap="round" stroke-dasharray="19"></path>
+            <path d="M72.5,748.5 L768.5,338.5" id="Line" stroke="#88AF5C" stroke-width="7" fill="#65A222" stroke-linecap="round"></path>
+            <path d="M1014.5,645.5 L1271.5,617.5" id="Line-Copy-26" stroke="url(#linearGradient-6)" stroke-width="5" stroke-linecap="round" stroke-dasharray="19"></path>
+            <path id="Line-Copy-26-decoration-1" d="M1271.5,617.5 L1260.43861,615.68738 L1261.08846,621.652084 L1271.5,617.5 Z" stroke="url(#linearGradient-6)" stroke-width="5" stroke-linecap="round" stroke-dasharray="19"></path>
+            <path d="M787.5,328.5 L1050.5,166.5" id="Line-Copy-19" stroke="#88AF5C" stroke-width="6" stroke-linecap="round" stroke-dasharray="1,1,18"></path>
+            <path d="M957.5,223.5 L1220.5,61.5" id="Line-Copy-27" stroke="url(#linearGradient-7)" stroke-width="5" stroke-linecap="round" stroke-dasharray="1,1,18"></path>
+            <path d="M72.5,748.5 L765.5,674.5" id="Line-Copy-16" stroke="#E13E3E" stroke-width="7" stroke-linecap="round"></path>
+            <g id="Line-Copy-20" style="mix-blend-mode: multiply;" stroke-linecap="round" stroke-dasharray="1,1,18">
+                <use stroke="#000000" stroke-width="9" fill="url(#linearGradient-8)" fill-rule="evenodd" xlink:href="#path-10"></use>
+                <use stroke="url(#linearGradient-9)" stroke-width="6" xlink:href="#path-10"></use>
+            </g>
+            <path d="M1061.5,748.5 L1061.5,0.5" id="Line-Copy-15" stroke-opacity="0.508322011" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-dasharray="17,1,1"></path>
+            <path d="M778.5,748.5 L778.5,9.5" id="Line-Copy-17" stroke-opacity="0.796110734" stroke="#8F8F90" stroke-width="3" stroke-linecap="square" stroke-dasharray="1,1"></path>
+            <path d="M778.5,779.5 L778.5,765.5" id="Line-Copy-24" stroke="#262626" stroke-width="7" stroke-linecap="round"></path>
+            <path d="M1060.5,778.5 L1060.5,766.5" id="Line-Copy-25" stroke="#2B2B2B" stroke-width="7" stroke-linecap="round" stroke-dasharray="1,1"></path>
+            <text id="NOW" font-family="Helvetica-Bold, Helvetica" font-size="25" font-weight="bold" fill="#000000">
+                <tspan x="749.951904" y="806">NOW</tspan>
+            </text>
+            <text id="Achievement-of-Robot" font-family="Helvetica-Bold, Helvetica" font-size="25" font-weight="bold">
+                <tspan x="932.400391" y="806" fill="#000000">Achievement of Robots</tspan>
+                <tspan x="1211.59961" y="806" font-size="20" fill="#000000"></tspan>
+                <tspan x="936.40918" y="836" font-size="20" fill="#626161">with human-level capabilties</tspan>
+            </text>
+            <text id="GAP" font-family="Helvetica-Bold, Helvetica" font-size="60" font-weight="bold" fill="#000000">
+                <tspan x="616.990234" y="576">GAP</tspan>
+            </text>
+            <text id="Time-(thus-advanceme" font-family="Helvetica-Bold, Helvetica" font-size="25" font-weight="bold">
+                <tspan x="75.9040527" y="781" fill="#000000">Time </tspan>
+                <tspan x="140.76001" y="781" font-size="20" fill="#444343">(thus advancements in AI &amp; robotics tech)</tspan>
+            </text>
+            <text id="Development-of-Struc" transform="translate(31.000000, 544.710391) rotate(-90.000000) translate(-31.000000, -544.710391) " font-family="Helvetica-Bold, Helvetica" font-size="25" font-weight="bold">
+                <tspan x="-128.753418" y="541.710391" fill="#000000">Development of Structures </tspan>
+                <tspan x="-169.029297" y="571.710391" font-size="20" fill="#626262">to ensure safe, trustworthy cloud robotics</tspan>
+            </text>
+            <text id="(1)-Ideal---Approach" transform="translate(399.868660, 527.102701) rotate(-31.000000) translate(-399.868660, -527.102701) " font-family="Helvetica-Bold, Helvetica" font-size="25" font-weight="bold" fill="#000000">
+                <tspan x="191.300545" y="536.102701">(1) Ideal</tspan>
+                <tspan x="285.77076" y="536.102701" font-size="20"> - Approach we should have taken</tspan>
+            </text>
+            <text id="(3)-Imperative-Appro" transform="translate(932.437102, 488.802516) rotate(-61.000000) translate(-932.437102, -488.802516) " font-family="Helvetica-Bold, Helvetica" font-size="25" font-weight="bold" fill="#000000">
+                <tspan x="851.156584" y="485.802516">(3) Imperative</tspan>
+                <tspan x="1013.71762" y="485.802516" font-size="20"> </tspan>
+                <tspan x="808.521086" y="515.802516" font-size="20">Approach we need to take</tspan>
+            </text>
+            <text id="(2)-Current---Approa" transform="translate(431.843383, 687.916585) rotate(-6.000000) translate(-431.843383, -687.916585) " font-family="Helvetica-Bold, Helvetica" font-size="25" font-weight="bold" fill="#000000">
+                <tspan x="242.865111" y="696.916585">(2)</tspan>
+                <tspan x="273.41931" y="696.916585" font-size="20"> </tspan>
+                <tspan x="278.975951" y="696.916585">Current</tspan>
+                <tspan x="369.259154" y="696.916585" font-size="20"> - Approach we have taken</tspan>
+            </text>
+            <rect id="Rectangle-11" fill="#94EE86" x="1159" y="90.8544922" width="157" height="60" rx="8"></rect>
+            <rect id="Rectangle-11-Copy" fill="#C0F682" x="1159" y="194" width="157" height="60" rx="8"></rect>
+            <rect id="Rectangle-11-Copy-2" fill="#DCF172" x="1159" y="292" width="157" height="60" rx="8"></rect>
+            <rect id="Rectangle-11-Copy-3" fill="#F4E668" x="1159" y="393" width="157" height="60" rx="8"></rect>
+            <rect id="Rectangle-11-Copy-4" fill="#F1BB6C" x="1159" y="496.915927" width="157" height="60" rx="8"></rect>
+            <rect id="Rectangle-11-Copy-5" fill="#FF7777" x="1159" y="597" width="157" height="60" rx="8"></rect>
+            <text id="Safe,-trustworthy" font-family="Helvetica-Bold, Helvetica" font-size="22" font-weight="bold" fill="#000000">
+                <tspan x="1213.2085" y="116">Safe, </tspan>
+                <tspan x="1179" y="142">trustworthy</tspan>
+            </text>
+            <text id="Safe,-but-untrustwor" font-family="Helvetica-Bold, Helvetica" font-size="22" font-weight="bold" fill="#000000">
+                <tspan x="1192.05078" y="218.854492">Safe, but </tspan>
+                <tspan x="1164.56152" y="244.854492">untrustworthy</tspan>
+            </text>
+            <text id="Unsafe,-untrustworth" font-family="Helvetica-Bold, Helvetica" font-size="22" font-weight="bold" fill="#000000">
+                <tspan x="1198.26465" y="315">Unsafe, </tspan>
+                <tspan x="1164.06152" y="341">untrustworthy</tspan>
+            </text>
+            <text id="Exploit-Humans" font-family="Helvetica-Bold, Helvetica" font-size="22" font-weight="bold" fill="#000000">
+                <tspan x="1201.83154" y="418">Exploit </tspan>
+                <tspan x="1195.10156" y="444">Humans</tspan>
+            </text>
+            <text id="Dangerous" font-family="Helvetica-Bold, Helvetica" font-size="22" font-weight="bold" fill="#000000">
+                <tspan x="1184.04541" y="535">Dangerous</tspan>
+            </text>
+            <text id="Terrifying" font-family="Helvetica-Bold, Helvetica" font-size="22" font-weight="bold" fill="#000000">
+                <tspan x="1189.08105" y="637">Terrifying</tspan>
+            </text>
+            <g id="Rectangle-12">
+                <use fill="#F44A4A" fill-rule="evenodd" xlink:href="#path-11"></use>
+                <rect stroke="#1E1E1E" stroke-width="5" x="1169.5" y="687.5" width="134" height="40" rx="8"></rect>
+            </g>
+            <g id="Rectangle-12-Copy">
+                <use fill="#8FF46F" fill-rule="evenodd" xlink:href="#path-12"></use>
+                <rect stroke="#2B2B2B" stroke-width="5" x="1170.5" y="15.5" width="134" height="40" rx="8"></rect>
+            </g>
+            <text id="Best-Case" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="1191.14062" y="42">Best Case</tspan>
+            </text>
+            <text id="Worst-Case" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#000000">
+                <tspan x="1180.66113" y="714">Worst Case</tspan>
+            </text>
+            <polygon id="Triangle-4-Copy" fill="#88AF5C" transform="translate(762.659425, 341.208356) rotate(65.000000) translate(-762.659425, -341.208356) " points="762.659425 324.708356 776.159425 357.708356 749.159425 357.708356"></polygon>
+            <polygon id="Triangle-4-Copy-4" fill="#E03F3F" transform="translate(760.183923, 674.345042) rotate(84.000000) translate(-760.183923, -674.345042) " points="760.183923 657.845042 773.683923 690.845042 746.683923 690.845042"></polygon>
+            <polygon id="Triangle-4-Copy-2" fill="#181918" transform="translate(1395.000000, 771.411773) rotate(90.000000) translate(-1395.000000, -771.411773) " points="1395 756.411773 1405.41177 786.411773 1384.58823 786.411773"></polygon>
+            <polygon id="Triangle-4-Copy-5" fill="#181918" points="47.4117731 3 57.8235463 33 37 33"></polygon>
+            <polygon id="Triangle-4-Copy-3" stroke="#454545" stroke-width="2" fill="#8CBE6D" transform="translate(1051.428247, 180.966777) rotate(27.000000) translate(-1051.428247, -180.966777) " points="1051.42825 163.446243 1065.42825 198.487311 1037.42825 198.487311"></polygon>
+        </g>
+    </g>
+</svg>
